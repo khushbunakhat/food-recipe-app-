@@ -1,0 +1,111 @@
+.App{
+  min-height: 100vh;
+  background-image: linear-gradient(15deg, #81c6ee 0%, #80d0c7 100%);
+ 
+}
+.search-form{
+  min-height: 10vh;
+  margin-left:120px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-bar{
+  width: 30%;
+  border:none;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 5px 10px #979b91;
+}
+.search-button{
+  background:#115158;
+  border: 5px solid white;
+  border-radius: 8px;
+  padding: 10px 20px;
+  color: white;
+  font-size: larger;
+  margin: 0 0 0 10px;
+}
+.addRecipe{
+  margin-right: 20px;
+  margin-top: 5px;
+  padding:20px;
+}
+.addRecipe-button{
+  background:#115158;
+  border: 5px solid white;
+  border-radius: 8px;
+  padding: 10px 20px;
+  color: white;
+  font-size: larger;
+  margin: 10 10 0 10px;
+  float:right;
+}
+.addRecipe-button:hover {
+  background-color:#fa709a ;
+}
+.search-button:hover {
+  background-color:#fa709a ;
+}
+.recipes{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.register{
+  min-height: 100vh;
+  min-width:100vh;
+  background-image: url("https://images.pexels.com/photos/1414651/pexels-photo-1414651.jpeg?auto=compress&cs=tinysrgb&w=600");
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.front{
+  justify-content: center;
+  margin-left: 40%;
+}
+.reg{
+  justify-content: center;
+padding-top:170px;
+padding-left:100px;
+}
+.login{
+  min-height: 100vh;
+  background-image: url("https://images.pexels.com/photos/1414651/pexels-photo-1414651.jpeg?auto=compress&cs=tinysrgb&w=600");
+ background-repeat: no-repeat;
+ background-size: cover;
+  
+}
+
+.inputBox {
+  padding: 7px;
+  display: block;
+  border: 1px solid skyblue;
+  width: 300px;
+  margin: 20px;
+}
+.nav-ul {
+  padding: 5px;
+  margin: 0px;
+  background-color: rgb(38, 100, 126);
+}
+.nav-ul li{
+  display:  inline-block;
+  padding: 10px;
+}
+.nav-ul li a {
+  color: #fff;
+  text-decoration: none;
+  padding: 5px;
+}
+.appButton {
+  margin: 20px;
+  width: 150px;
+  padding: 10px;
+  background-color: rgb(38, 100, 126);
+  border: solid 1px;
+  cursor: pointer;
+}
+.nav-right{
+  text-align: right;
+  font-size: 24px;
+}

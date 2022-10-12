@@ -1,4 +1,6 @@
-# 1.Food-Recipe-app  is a complete Full Stack project where I have used react for frontend and node.js for backend and mongo dB database.  Sing Up,  Login, Search-Bar and  Add Recipe functionality are there. We can  check particular recipe details  like ingredients and steps in new page by clicking on particular recipe  image.
+# Table of Contents: 1.General Information 2.Technologies 3.Features 4.Live Demo 5.image of website
+# 1.General Information 
+Food-Recipe-app  is a complete Full Stack project where I have used react for frontend and node.js for backend and mongo dB database.  Sing Up,  Login, Search-Bar and  Add Recipe functionality are there. We can  check particular recipe details  like ingredients and steps in new page by clicking on particular recipe  image.
 # 2. Features
 SingUp, Login,Search-Bar,Add Recipe and check particular recipe details in new page by clicking on particular image.
 
